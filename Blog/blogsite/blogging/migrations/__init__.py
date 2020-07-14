@@ -1,0 +1,1 @@
+# this file ensures that all other files runs as scripts
